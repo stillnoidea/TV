@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TV</string>
+    <string name="wall_title">Wall</string>
+    <string name="flower_title">Sunflower</string>
+    <string name="winter_title">Winter</string>
+    <string name="foto_desc">there should be foto</string>
+    <string name="rawr_title">Rawr</string>
+</resources>

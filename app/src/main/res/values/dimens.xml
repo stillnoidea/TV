@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="title_size">44sp</dimen>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="bigger_image_width">400dp</dimen>
+    <dimen name="bigger_image_height">400dp</dimen>
+    <dimen name="bigger_image_margin">8dp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="title_margin">16dp</dimen>
+</resources>
